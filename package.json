@@ -1,6 +1,6 @@
 {
 	"name": "@wvbe/prettify-xml",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "This is a command-line utility that prettifies XML in your streamed input.",
 	"repository": "wvbe/prettify-xml",
 	"author": {

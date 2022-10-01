@@ -1,4 +1,4 @@
-# count-unique-lines
+# @wvbe/prettify-xml
 
 This is a command-line utility that prettifies the XML coming in from your streamed input.
 
@@ -10,7 +10,7 @@ some times.
 To install Node package, run from anywhere:
 
 ```sh
-npm i -g wvbe/prettify-xml
+npm i -g @wvbe/prettify-xml
 ```
 
 ## Usage
