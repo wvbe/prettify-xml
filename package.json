@@ -1,5 +1,5 @@
 {
-	"name": "prettify-xml",
+	"name": "@wvbe/prettify-xml",
 	"version": "1.0.0",
 	"description": "This is a command-line utility that prettifies XML in your streamed input.",
 	"repository": "wvbe/prettify-xml",
@@ -8,6 +8,7 @@
 		"email": "wybe@x-54.com",
 		"url": "https://github.com/wvbe"
 	},
+	"type": "module",
 	"license": "MIT",
 	"homepage": "https://github.com/wvbe/prettify-xml",
 	"keywords": [
@@ -21,6 +22,7 @@
 		"prettify-xml": "prettify-xml.js"
 	},
 	"dependencies": {
+		"chalk": "^5.0.1",
 		"slimdom": "^4.0.2"
 	}
 }

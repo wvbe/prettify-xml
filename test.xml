@@ -1,1 +1,1 @@
-<xml>this is a <span style="font-weight: bold">test</span>.</xml>
+<xml xmlns:derp="http://derp"><p>This is an XML formatting text.</p><p>This file is designed to use most of XML's syntax features.</p><derp:example>Namespaced elements and <span derp:emphasis="bold">namespaced attributes</span>.</derp:example><?processing-instructions and their arbitrary data ?><example normal-attributes="too"><![CDATA[and CDATA]]></example><example>Not really an XML feature, but &quot;entities are used sometimes too&quot;</example><!-- XML comments! --></xml>
